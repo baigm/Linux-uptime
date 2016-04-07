@@ -1,6 +1,6 @@
 # Linux-uptime
 Simple python script that returns the 'uptime' value of a running server is JSON format
 
-Usage:
+Usage:                                                                                                              
 1) ./json_uptime.py <-- prints json string to terminal                                                              
 2) ./json_uptime.py -o file_name <-- write json string to file
